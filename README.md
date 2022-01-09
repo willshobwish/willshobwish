@@ -1,7 +1,13 @@
 # Boas vindas
 
+## Sobre
+
+Meu nome é Willian, aluno do curso de Ciência da Computação na FCT Unesp
+
+## Repositórios
+
 Possui alguns repositórios que podem ser úteis:  
-[Algoritmos e técnicas de programação 2](https://github.com/willshobwish/ATP-2) 
+[Algoritmos e técnicas de programação 2](https://github.com/willshobwish/ATP-2)  
 
 ----------
 
