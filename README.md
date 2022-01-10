@@ -17,8 +17,6 @@ Possui alguns repositórios que podem ser úteis:
 [Calendário de atividades (site)](https://willshobwish.github.io/calendario/)  
 [Calendário de atividades (repositório)](https://github.com/willshobwish/calendario)  
 
-----------
-
 ### Repositórios em construção
 
 Estes abaixo não estão funcionando ainda:  
