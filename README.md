@@ -2,9 +2,9 @@
 
 ## Sumário
 
-[Sobre](#sobre)
-[Repositórios disponíveis](#Repositóriosdisponíveis)
-[Repositórios em construção](#Repositóriosemconstrução)
+[Sobre](#sobre)  
+[Repositórios disponíveis](#Repositórios-disponíveis)  
+[Repositórios em construção](#Repositórios-em-construção)
 
 ## Sobre
 
