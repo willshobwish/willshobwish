@@ -16,6 +16,7 @@ Possui alguns repositórios que podem ser úteis:
 Estes abaixo não estão funcionando ainda:  
 [Algoritmos e técnicas de programação 1](https://github.com/willshobwish/ATP-1)  
 [Desenvolvimento Web com JavaScript](https://github.com/willshobwish/desenvolvimento-web-js)  
+[Modelo de Trabalho de Conclusão de Curso em conformidade da ABNT FCT Unesp em LaTeX](https://github.com/willshobwish/tcc-modelo-fct-unesp-latex)
 
 ----------
 
