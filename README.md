@@ -13,11 +13,6 @@ Possui alguns repositórios que podem ser úteis:
 [Calendário de atividades (repositório)](https://github.com/willshobwish/calendario)  
 [Modelo de Trabalho de Conclusão de Curso em conformidade da ABNT FCT Unesp em LaTeX](https://github.com/willshobwish/tcc-modelo-fct-unesp-latex)  
 
-### Repositórios em construção
-
-Estes abaixo não estão funcionando ainda:  
-[Desenvolvimento Web com JavaScript](https://github.com/willshobwish/desenvolvimento-web-js)  
-
 ----------
 
 ###### Wills
