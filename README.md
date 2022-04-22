@@ -27,10 +27,10 @@ Possui alguns repositórios que podem ser úteis:
 
 ### Web apps
 
-[CACiC](https://cacic-fct.web.app/home)
+[CACiC](https://cacic-fct.web.app/home)  
 Web app do centro acadêmico da ciência da computação
-\
-[FCT App](https://fct-pp.web.app/calendario)
+  
+[FCT App](https://fct-pp.web.app/calendario)  
 Web app com os eventos da FCT Unesp
 
 ---
