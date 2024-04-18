@@ -5,7 +5,7 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 ### Repositórios disponíveis
 
 #### Primeiro Ano
-[Algoritmos e técnicas de programação 1](https://github.com/willshobwish/ATP-1)
+[Algoritmos e técnicas de programação 1](https://github.com/willshobwish/algoritmos-tecnicas-programacao-1)
 
 [Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-tecnicas-pogramacao-2)
 
