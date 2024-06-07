@@ -35,7 +35,13 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 ### Introdução à impressão tridimensional
 
+Introdução ao processo de impressão tridimensional: obtenção de modelos 3D, fatiamento e impressão.
+
 ### Introdução ao LaTeX
+
+Introdução à utilização do LaTeX com biblatex para ciência da computação.
+
+[Repositório](https://github.com/willshobwish/secompp-latex)
 
 ---
 
