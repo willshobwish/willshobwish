@@ -9,7 +9,7 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 [Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-tecnicas-pogramacao-2)
 
-[Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web)
+[Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web) (optativa)
 
 ## Segundo Ano
 
@@ -27,7 +27,7 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 ## Quarto Ano
 
-[Introdução à tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java)
+[Introdução à tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java) (optativa)
 
 ---
 
