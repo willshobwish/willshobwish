@@ -1,17 +1,17 @@
-## Sobre
+# Sobre
 
 Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade Paulista "Júlio de Mesquita Filho" - Faculdade de Ciências e Tecnologia de Presidente Prudente (FCT - Unesp).
 
-### Repositórios disponíveis
+# Repositórios disponíveis
 
-#### Primeiro Ano
+## Primeiro Ano
 [Algoritmos e técnicas de programação 1](https://github.com/willshobwish/algoritmos-tecnicas-programacao-1)
 
 [Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-tecnicas-pogramacao-2)
 
 [Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web)
 
-#### Segundo Ano
+## Segundo Ano
 
 [Programação orientado à objetos 1](https://github.com/willshobwish/programacao-orientado-objetos-1)
 
@@ -19,24 +19,32 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 [Microprocessadores](https://github.com/willshobwish/microprocessadores)
 
-#### Terceiro Ano
+## Terceiro Ano
 
 
 [Processamento digital de imagens](https://github.com/willshobwish/processamento-digital-imagens)
 
 
-#### Quarto Ano
+## Quarto Ano
 
 [Introdução à tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java)
 
 ---
 
-#### Site pessoal
+## Cursos ministrados na SECOMPP
+
+### Introdução à impressão tridimensional
+
+### Introdução ao LaTeX
+
+---
+
+## Site pessoal
 [Página do site pessoal](https://willshobwish.github.io)  
 
 ---
 
-<!-- ### Web apps
+<!-- ## Web apps
 
 [CACiC](https://cacic-fct.web.app/home)  
 Web app do centro acadêmico da ciência da computação
@@ -46,7 +54,7 @@ Web app com os eventos da FCT Unesp
 
 --- -->
 
-#### Outros
+## Outros
 
 [Modelo de Trabalho de Conclusão de Curso em conformidade da ABNT FCT Unesp em LaTeX](https://github.com/willshobwish/tcc-modelo-fct-unesp-latex)  
 **Não é compatível com o trabalho de conclusão de curso da ciência da computação** (utiliza-se o modelo da [Sociedade Brasileira de Computação](https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos))
