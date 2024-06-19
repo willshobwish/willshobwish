@@ -21,6 +21,7 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 ## Terceiro Ano
 
+[Cálculo numérico](https://github.com/willshobwish/calculo-numerico)
 
 [Processamento digital de imagens](https://github.com/willshobwish/processamento-digital-imagens)
 
