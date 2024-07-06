@@ -25,6 +25,7 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 [Processamento digital de imagens](https://github.com/willshobwish/processamento-digital-imagens)
 
+[Engenharia de software 1](https://github.com/willshobwish/engenharia-de-software-1)
 
 ## Quarto Ano
 
@@ -53,7 +54,7 @@ Introdução à utilização do LaTeX com biblatex para ciência da computação
 
 ---
 
-<!-- ## Web apps
+## Web apps
 
 [CACiC](https://cacic-fct.web.app/home)  
 Web app do centro acadêmico da ciência da computação
@@ -61,7 +62,7 @@ Web app do centro acadêmico da ciência da computação
 [FCT App](https://fct-pp.web.app/calendario)  
 Web app com os eventos da FCT Unesp
 
---- -->
+---
 
 ## Outros
 
