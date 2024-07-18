@@ -39,13 +39,13 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 Introdução ao processo de impressão tridimensional: obtenção de modelos 3D, fatiamento e impressão.
 
-[Google Drive]()
+[Google Drive](https://drive.google.com/drive/folders/1d9eahrz5r2wKdBADLyAwNc5qTz3RlKKT?usp=sharing)
 
 ### Introdução ao LaTeX
 
 Introdução à utilização do LaTeX com biblatex para ciência da computação.
 
-[Repositório](https://github.com/willshobwish/secompp-latex) | [Google Drive]()
+[Repositório](https://github.com/willshobwish/secompp-latex) | [Google Drive](https://drive.google.com/drive/folders/1seCvk9jt43KGnZhxuGWHIp3B_tUcECnh?usp=sharing)
 
 ---
 
