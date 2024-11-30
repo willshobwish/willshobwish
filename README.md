@@ -5,13 +5,19 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 # Repositórios disponíveis
 
 ## Primeiro Ano
-[Algoritmos e técnicas de programação 1](https://github.com/willshobwish/algoritmos-tecnicas-programacao-1)
+[Algoritmos e técnicas de programação 1](https://github.com/willshobwish/estrutura-de-dados-1-projeto)
 
-[Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-tecnicas-pogramacao-2)
+[Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2)
 
 [Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web) (optativa)
 
+[Física experimental](https://github.com/willshobwish/fisica-experimental)
+
 ## Segundo Ano
+
+[Arquitetura de computadores](https://github.com/willshobwish/arquitetura-computadores)
+
+[Estrutura de dados 1](https://github.com/willshobwish/estrutura-de-dados-1)
 
 [Programação orientado à objetos 1](https://github.com/willshobwish/programacao-orientado-objetos-1)
 
@@ -21,6 +27,10 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 ## Terceiro Ano
 
+[Banco de dados 1](https://github.com/willshobwish/banco-de-dados-1)
+
+[Banco de dados 2](https://github.com/willshobwish/banco-de-dados-2)
+
 [Cálculo numérico](https://github.com/willshobwish/calculo-numerico)
 
 [Processamento digital de imagens](https://github.com/willshobwish/processamento-digital-imagens)
@@ -29,9 +39,31 @@ Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade 
 
 ## Quarto Ano
 
-[Introdução à tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java) (optativa)
+[Introdução a tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java) (optativa)
 
 ---
+
+## Projetos desenvolvidos nas disciplinas
+
+[Algoritmos e técnicas de programação 2 projeto](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto)
+
+[Algoritmos e técnicas de programação 2 tarefas](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-tarefas)
+
+[Estrutura de dados 1 projeto semestral](https://github.com/willshobwish/estrutura-de-dados-1-projeto)
+
+[Programação orientado a objetos 1 Robocode](https://github.com/willshobwish/programacao-orientado-a-objetos-1-robocode)
+
+[Programação orientado a objetos 1 projeto semestral](https://github.com/willshobwish/programacao-orientado-a-objetos-1-projeto)
+
+[Programação orientado a objetos 2 projeto 1](https://github.com/willshobwish/programacao-orientado-a-objetos-2-trabalho-1)
+
+[Programação orientado a objetos 2 projeto 2](https://github.com/willshobwish/programacao-orientado-a-objetos-2-trabalho-2)
+
+[Linguagens de programação Simpletron](https://github.com/willshobwish/linguagens-de-programacao-simpletron)
+
+[Microprocessadores projeto semestral](https://github.com/willshobwish/microprocessadores-projeto)
+
+[Desenvolvimento Web com JavaScript projeto semestral](https://github.com/willshobwish/desenvolvimento-web-com-javascript-projeto)
 
 ## Cursos ministrados na SECOMPP
 
@@ -45,7 +77,7 @@ Introdução ao processo de impressão tridimensional: obtenção de modelos 3D,
 
 Introdução à utilização do LaTeX com biblatex para ciência da computação.
 
-[Repositório](https://github.com/willshobwish/secompp-latex) | [Google Drive](https://drive.google.com/drive/folders/1seCvk9jt43KGnZhxuGWHIp3B_tUcECnh)
+[Repositório](https://github.com/willshobwish/course-secompp-latex) | [Google Drive](https://drive.google.com/drive/folders/1seCvk9jt43KGnZhxuGWHIp3B_tUcECnh)
 
 ---
 
