@@ -67,6 +67,12 @@ Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, 
 
 [Desenvolvimento Web com JavaScript projeto semestral](https://github.com/willshobwish/desenvolvimento-web-com-javascript-projeto)
 
+[Introdução à tecnologia Java (Ludo)](https://github.com/karoldm/ludo)
+
+[Introdução à tecnologia Java (Plantae)](https://github.com/gabrielribeirof/plantae)
+
+[Linguagens Formais e Teoria da Computação projeto semestral](https://github.com/GuiCT/lftc)
+
 ## Cursos ministrados na SECOMPP
 
 ### Introdução à impressão tridimensional
