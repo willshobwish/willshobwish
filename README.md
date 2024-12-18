@@ -2,6 +2,8 @@
 
 Meu nome é Willian, aluno do curso de Ciência da Computação da Universidade Paulista "Júlio de Mesquita Filho" - Faculdade de Ciências e Tecnologia de Presidente Prudente (FCT - Unesp).
 
+Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, CNNs*). A linguagem de programação utilizada é Python com as frameworks utilizados são PyTorch e Tensorflow Keras.
+
 # Repositórios disponíveis
 
 ## Primeiro Ano
@@ -86,17 +88,7 @@ Introdução à utilização do LaTeX com biblatex para ciência da computação
 
 ---
 
-## Web apps
-
-[CACiC](https://cacic-fct.web.app/home)  
-Web app do centro acadêmico da ciência da computação
-  
-[FCT App](https://fct-pp.web.app/calendario)  
-Web app com os eventos da FCT Unesp
-
----
-
-## Outros
+## Modelos de trabalhos em LaTeX do curso de Ciência da Computação da FCT Unesp 
 
 [Modelo de Trabalho de Conclusão de Curso em conformidade da ABNT FCT Unesp em LaTeX](https://github.com/willshobwish/tcc-modelo-fct-unesp-latex)  
 **Não é compatível com o trabalho de conclusão de curso da ciência da computação** (utiliza-se o modelo da [Sociedade Brasileira de Computação](https://www.sbc.org.br/documentos-da-sbc/summary/169-templates-para-artigos-e-capitulos-de-livros/878-modelosparapublicaodeartigos))
