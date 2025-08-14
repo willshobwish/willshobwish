@@ -11,8 +11,6 @@ Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, 
 
 [Algoritmos e técnicas de programação 2](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2)
 
-[Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web) (optativa)
-
 [Física experimental](https://github.com/willshobwish/fisica-experimental)
 
 ## Segundo Ano
@@ -44,6 +42,8 @@ Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, 
 [Compiladores](https://github.com/willshobwish/compiladores)
 
 ## Disciplinas optativas
+
+[Desenvolvimento web com Javascript](https://github.com/willshobwish/desenvolvimento-web)
 
 [Introdução a tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java)
 
