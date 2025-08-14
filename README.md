@@ -41,7 +41,15 @@ Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, 
 
 ## Quarto Ano
 
-[Introdução a tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java) (optativa)
+[Compiladores](https://github.com/willshobwish/compiladores)
+
+## Disciplinas optativas
+
+[Introdução a tecnologia Java](https://github.com/willshobwish/introducao-tecnologia-java)
+
+[Análise exploratória de dados](https://github.com/willshobwish/analise-exploratoria-de-dados)
+
+[Introdução à ciência de dados](https://github.com/willshobwish/introducao-a-ciencia-de-dados)
 
 ---
 
@@ -72,6 +80,8 @@ Pesquisador sobre Redes Neurais Convolucionais (*Convolutional Neural Networks, 
 [Introdução à tecnologia Java (Plantae)](https://github.com/gabrielribeirof/plantae)
 
 [Linguagens Formais e Teoria da Computação projeto semestral](https://github.com/GuiCT/lftc)
+
+[Compiladores interpretador de linguagem](https://github.com/willshobwish/compiladores)
 
 ## Cursos ministrados na SECOMPP
 
