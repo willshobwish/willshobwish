@@ -109,12 +109,12 @@ Pesquisador sobre **Redes Neurais Convolucionais** (_Convolutional Neural Networ
 
 ### Projetos de Programação
 
-| Projeto                                                                            | Tecnologia           | Descrição                                |
-| ---------------------------------------------------------------------------------- | -------------------- | ---------------------------------------- |
-| [Compiladores](https://github.com/willshobwish/compiladores)                       | Compiladores         | Interpretador de linguagem               |
-| [Simpletron](https://github.com/willshobwish/linguagens-de-programacao-simpletron) | Assembly             | Simulador de máquina virtual             |
-| [LFTC](https://github.com/GuiCT/lftc)                                              | Teoria da Computação | Projeto de Linguagens Formais            |
-| [Microprocessadores](https://github.com/willshobwish/microprocessadores-projeto)   | Hardware             | Projeto semestral com microcontroladores |
+| Projeto                                                                            | Tecnologia      | Descrição                                |
+| ---------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
+| [Compiladores](https://github.com/willshobwish/compiladores)                       | Java            | Interpretador de linguagem               |
+| [Simpletron](https://github.com/willshobwish/linguagens-de-programacao-simpletron) | C/C++           | Simulador de máquina virtual             |
+| [LFTC](https://github.com/GuiCT/lftc)                                              | JavaScript      | Projeto de Linguagens Formais            |
+| [Microprocessadores](https://github.com/willshobwish/microprocessadores-projeto)   | Pascal/Assembly | Projeto semestral com microcontroladores |
 
 ### Projetos de POO
 
@@ -135,11 +135,11 @@ Pesquisador sobre **Redes Neurais Convolucionais** (_Convolutional Neural Networ
 
 ### Projetos Iniciais
 
-| Projeto                                                                                           | Área       | Descrição                       |
-| ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------- |
-| [ATP 2 - Projeto](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto) | Algoritmos | Projeto semestral ATP 2         |
-| [ATP 2 - Tarefas](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-tarefas) | Algoritmos | Exercícios práticos ATP 2       |
-| [Estrutura de Dados 1](https://github.com/willshobwish/estrutura-de-dados-1-projeto)              | ED         | Projeto semestral de estruturas |
+| Projeto                                                                                           | Área  | Descrição                       |
+| ------------------------------------------------------------------------------------------------- | ----- | ------------------------------- |
+| [ATP 2 - Projeto](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto) | C/C++ | Projeto semestral ATP 2         |
+| [ATP 2 - Tarefas](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-tarefas) | C/C++ | Exercícios práticos ATP 2       |
+| [Estrutura de Dados 1](https://github.com/willshobwish/estrutura-de-dados-1-projeto)              | C/C++ | Projeto semestral de estruturas |
 
 ---
 
