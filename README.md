@@ -146,14 +146,15 @@ Pesquisador sobre **Redes Neurais Convolucionais** (_Convolutional Neural Networ
     </tr>
     <tr>
       <td>Optativas</td>
-      <td>-</td>
+      <td></td>
       <td>
         <a href="https://github.com/willshobwish/desenvolvimento-web">Desenvolvimento Web com Javascript</a><br>
-        <a href="https://github.com/willshobwish/introducao-tecnologia-java">Introdução a Tecnologia Java</a><br>
+        <a href="https://github.com/willshobwish/introducao-tecnologia-java">Introdução à Tecnologia Java</a><br>
         <a href="https://github.com/willshobwish/analise-exploratoria-de-dados">Análise Exploratória de Dados</a><br>
         <a href="https://github.com/willshobwish/introducao-a-ciencia-de-dados">Introdução à Ciência de Dados</a>
       </td>
-      <td>-</td>
+      <td><a href="https://github.com/karoldm/ludo">Introdução à Tecnologia Java (Ludo)</a><br>
+      <a href="https://github.com/gabrielribeirof/plantae">Introdução à Tecnologia Java (Plantae)</a></td>
     </tr>
   </tbody>
 </table>
