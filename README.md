@@ -38,108 +38,125 @@ Pesquisador sobre **Redes Neurais Convolucionais** (_Convolutional Neural Networ
 <table>
   <thead>
     <tr>
-      <th colspan="2">Primeiro Ano</th>
-      <th colspan="2">Segundo Ano</th>
-      <th colspan="2">Terceiro Ano</th>
-      <th colspan="2">Quarto Ano</th>
-      <th rowspan="2">Optativas</th>
-    </tr>
-    <tr>
-      <th>1º Semestre</th>
-      <th>2º Semestre</th>
-      <th>1º Semestre</th>
-      <th>2º Semestre</th>
-      <th>1º Semestre</th>
-      <th>2º Semestre</th>
-      <th>1º Semestre</th>
-      <th>2º Semestre</th>
+      <th>Ano</th>
+      <th>Semestre</th>
+      <th>Repositório (Disciplinas)</th>
+      <th>Repositório (Projetos)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/willshobwish/estrutura-de-dados-1-projeto">Algoritmos e técnicas de programação 1</a></td>
-      <td><a href="https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2">Algoritmos e técnicas de programação 2</a></td>
-      <td><a href="https://github.com/willshobwish/arquitetura-computadores">Arquitetura de computadores</a></td>
-      <td><a href="https://github.com/willshobwish/programacao-orientado-objetos-2">Programação orientado à objetos 2</a></td>
-      <td><a href="https://github.com/willshobwish/banco-de-dados-1">Banco de dados 1</a></td>
-      <td><a href="https://github.com/willshobwish/banco-de-dados-2">Banco de dados 2</a></td>
-      <td><a href="https://github.com/willshobwish/compiladores">Compiladores</a></td>
-      <td><a href="https://github.com/willshobwish/programacao-linear">Programação linear</a></td>
-      <td><a href="https://github.com/willshobwish/desenvolvimento-web">Desenvolvimento web com Javascript</a></td>
+      <td rowspan="2">1º Ano</td>
+      <td>1º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/estrutura-de-dados-1-projeto">Algoritmos e Técnicas de Programação I</a><br>
+      </td>
+      <td>-</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/willshobwish/fisica-experimental">Física experimental</a></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/estrutura-de-dados-1">Estrutura de dados 1</a></td>
-      <td><a href="https://github.com/willshobwish/estrutura-de-dados-2">Estrutura de dados 2</a></td>
-      <td><a href="https://github.com/willshobwish/calculo-numerico">Cálculo numérico</a></td>
-      <td><a href="https://github.com/willshobwish/processamento-digital-imagens">Processamento digital de imagens</a></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/seguranca-da-informacao">Segurança da informação</a></td>
-      <td><a href="https://github.com/willshobwish/introducao-tecnologia-java">Introdução a tecnologia Java</a></td>
+      <td>2º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2">Algoritmos e Técnicas de Programação II</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/fisica-experimental">Física Experimental</a><br>
+        <a href="https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto">Algoritmos e Técnicas de Programação II</a>
+      </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/programacao-orientado-objetos-1">Programação orientado à objetos 1</a></td>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/engenharia-de-software-1">Engenharia de software 1</a></td>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/analise-exploratoria-de-dados">Análise exploratória de dados</a></td>
+      <td rowspan="2">2º Ano</td>
+      <td>1º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/arquitetura-computadores">Arquitetura de Computadores</a><br>
+        <a href="https://github.com/willshobwish/estrutura-de-dados-1">Estrutura de Dados I</a><br>
+        <a href="https://github.com/willshobwish/programacao-orientado-objetos-1">Programação Orientado à Objetos I</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/estrutura-de-dados-1-projeto">Estrutura de Dados I</a><br>
+        <a href="https://github.com/willshobwish/linguagens-de-programacao-simpletron">Linguagens de Programação</a><br>
+        <a href="https://github.com/willshobwish/microprocessadores-projeto">Microprocessadores</a><br>
+        <a href="https://github.com/willshobwish/programacao-orientado-a-objetos-1-projeto">Programação Orientada a Objetos I</a>
+      </td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td><a href="https://github.com/willshobwish/introducao-a-ciencia-de-dados">Introdução à ciência de dados</a></td>
+      <td>2º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/programacao-orientado-objetos-2">Programação Orientado à Objetos II</a><br>
+        <a href="https://github.com/willshobwish/estrutura-de-dados-2">Estrutura de Dados II</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto">Programação Orientada a Objetos II</a><br>
+        <a href="https://github.com/willshobwish/estrutura-de-dados-2">Estrutura de Dados II</a><br>
+        <a href="https://github.com/willshobwish/projeto-analise-algoritmos">Projeto e Análise de Algoritmos</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">3º Ano</td>
+      <td>1º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/banco-de-dados-1">Banco de Dados I</a><br>
+        <a href="https://github.com/willshobwish/calculo-numerico">Cálculo Numérico</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/banco-de-dados-1">Banco de Dados I</a><br>
+        <a href="https://github.com/willshobwish/redes-1">Redes de Computadores I</a><br>
+        <a href="https://github.com/willshobwish/processamento-digital-de-imagens-projeto">Processamento Digital de Imagens</a><br>
+        <a href="https://github.com/willshobwish/calculo-numerico">Cálculo Numérico</a><br>
+        <a href="https://github.com/willshobwish/engenharia-de-software-1">Engenharia de Software I</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/banco-de-dados-2">Banco de Dados II</a><br>
+        <a href="https://github.com/willshobwish/processamento-digital-imagens">Processamento Digital de Imagens</a><br>
+        <a href="https://github.com/willshobwish/engenharia-de-software-1">Engenharia de Software I</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/inteligencia-artificial-puzzle-8">Inteligência Artificial (Puzzle 8)</a><br>
+        <a href="https://github.com/willshobwish/inteligencia-artificial-redes-neurais">Inteligência Artificial (Redes Neurais)</a><br>
+        <a href="https://github.com/willshobwish/banco-de-dados-2-projeto-semestral">Banco de Dados II</a><br>
+        Redes de Computadores II<br>
+        <a href="https://github.com/GuiCT/lftc">Linguagens Formais e Teoria da Computação</a><br>
+        <a href="https://github.com/willshobwish/engenharia-de-software-2">Engenharia de Software II</a>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">4º Ano</td>
+      <td>1º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/compiladores">Compiladores</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/compiladores">Compiladores</a><br>
+        <a href="https://github.com/willshobwish/computacao-distribuida-e-paralela">Computação Distribuída e Paralela</a><br>
+        <a href="https://github.com/willshobwish/programacao-linear">Programação Linear</a>
+      </td>
+    </tr>
+    <tr>
+      <td>2º Semestre</td>
+      <td>
+        <a href="https://github.com/willshobwish/programacao-linear">Programação Linear</a><br>
+        <a href="https://github.com/willshobwish/seguranca-da-informacao">Segurança da Informação</a>
+      </td>
+      <td>
+        <a href="https://github.com/willshobwish/interface-homem-maquina">Interface Homem-Máquina</a><br>
+        <a href="https://github.com/willshobwish/seguranca-da-informacao">Segurança da Informação</a>
+      </td>
+    </tr>
+    <tr>
+      <td>Optativas</td>
+      <td>-</td>
+      <td>
+        <a href="https://github.com/willshobwish/desenvolvimento-web">Desenvolvimento Web com Javascript</a><br>
+        <a href="https://github.com/willshobwish/introducao-tecnologia-java">Introdução a Tecnologia Java</a><br>
+        <a href="https://github.com/willshobwish/analise-exploratoria-de-dados">Análise Exploratória de Dados</a><br>
+        <a href="https://github.com/willshobwish/introducao-a-ciencia-de-dados">Introdução à Ciência de Dados</a>
+      </td>
+      <td>-</td>
     </tr>
   </tbody>
 </table>
-
----
-
-## Projetos Destacados
-
-### Projetos de Programação
-
-| Projeto                                                                            | Tecnologia      | Descrição                                |
-| ---------------------------------------------------------------------------------- | --------------- | ---------------------------------------- |
-| [Compiladores](https://github.com/willshobwish/compiladores)                       | Java            | Interpretador de linguagem               |
-| [Simpletron](https://github.com/willshobwish/linguagens-de-programacao-simpletron) | C/C++           | Simulador de máquina virtual             |
-| [LFTC](https://github.com/GuiCT/lftc)                                              | JavaScript      | Projeto de Linguagens Formais            |
-| [Microprocessadores](https://github.com/willshobwish/microprocessadores-projeto)   | Pascal/Assembly | Projeto semestral com microcontroladores |
-
-### Projetos de POO
-
-| Projeto                                                                                            | Tecnologia | Descrição                     |
-| -------------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
-| [Robocode](https://github.com/willshobwish/programacao-orientado-a-objetos-1-robocode)             | Java       | Competição de robôs autônomos |
-| [POO 1 - Projeto](https://github.com/willshobwish/programacao-orientado-a-objetos-1-projeto)       | Java       | Projeto semestral POO 1       |
-| [POO 2 - Trabalho 1](https://github.com/willshobwish/programacao-orientado-a-objetos-2-trabalho-1) | Java       | Primeiro projeto POO 2        |
-| [POO 2 - Trabalho 2](https://github.com/willshobwish/programacao-orientado-a-objetos-2-trabalho-2) | Java       | Segundo projeto POO 2         |
-
-### Projetos Web e Java
-
-| Projeto                                                                                              | Tecnologia | Descrição                              |
-| ---------------------------------------------------------------------------------------------------- | ---------- | -------------------------------------- |
-| [Dev Web com JavaScript](https://github.com/willshobwish/desenvolvimento-web-com-javascript-projeto) | JavaScript | Projeto de desenvolvimento web         |
-| [Ludo](https://github.com/karoldm/ludo)                                                              | Java       | Jogo de tabuleiro (colaboração)        |
-| [Plantae](https://github.com/gabrielribeirof/plantae)                                                | Java       | Sistema de gerenciamento (colaboração) |
-
-### Projetos Iniciais
-
-| Projeto                                                                                           | Área  | Descrição                       |
-| ------------------------------------------------------------------------------------------------- | ----- | ------------------------------- |
-| [ATP 2 - Projeto](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-projeto) | C/C++ | Projeto semestral ATP 2         |
-| [ATP 2 - Tarefas](https://github.com/willshobwish/algoritmos-e-tecnicas-de-programacao-2-tarefas) | C/C++ | Exercícios práticos ATP 2       |
-| [Estrutura de Dados 1](https://github.com/willshobwish/estrutura-de-dados-1-projeto)              | C/C++ | Projeto semestral de estruturas |
 
 ---
 
