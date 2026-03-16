@@ -9,11 +9,19 @@
 
 ## Sobre
 
-Aluno do curso de **Ciência da Computação** da Universidade Estadual Paulista (UNESP) - Faculdade de Ciências e Tecnologia, Câmpus de Presidente Prudente (FCT).
+Aluno do curso de **Ciência da Computação** da Universidade Estadual Paulista (UNESP), Faculdade de Ciências e Tecnologia, Presidente Prudente.
 
-## Pesquisa
+## About
 
-Pesquisador sobre **Redes Neurais Convolucionais** (_Convolutional Neural Networks, CNNs_).
+Computer science student at São Paulo State University (UNESP), School of Technology and Sciences, Presidente Prudente.
+
+## Pesquisa/Research
+
+- Redes Neurais convolucionais/Convolutional Neural Networks (CNN)
+- Aumento de dados/data augmentation
+- Vision Transformer (ViT)
+- Modelos de segmentação semântica/semantic segmentation models
+- Self-supervised learning
 
 ### Tecnologias
 
